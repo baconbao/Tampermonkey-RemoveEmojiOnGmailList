@@ -1,6 +1,6 @@
 # [Tampermonkey] Remove Emoji on Gmail's Mail List
 
-A Tampermonkey script which can be used to remove mail titles' emoji on Gmail.
+A Tampermonkey script which can be used to remove emoji on the mail list of Gmail.
 
 ![sample](doc-assets/sample.jpg)
 

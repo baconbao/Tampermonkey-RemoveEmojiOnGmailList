@@ -2,7 +2,7 @@
 // @name               Gmail - Remove emoji on mail list
 // @name:zh-TW         Gmail - 移除信件列表中的emoji表情符號
 // @name:zh-CN         Gmail - 移除邮件列表中的emoji表情符号
-// @version            1.0.3
+// @version            1.1.0
 // @description        Remove mail titles' emoji on Gmail.
 // @description:zh-TW  在Gmail信件列表中移除emoji表情符號
 // @description:zh-CN  在Gmail邮件列表中移除emoji表情符号
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 GM_addStyle(`
-    tr[data-inboxsdk-thread-row] img[data-emoji] {
+    tr[jscontroller][jsmodel][jsaction] img[data-emoji] {
         display: none;
     }
 `);

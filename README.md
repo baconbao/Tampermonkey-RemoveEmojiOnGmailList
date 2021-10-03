@@ -12,3 +12,10 @@ A Tampermonkey script which can be used to remove emoji on the mail list of Gmai
 ## Author
 
 BaconBao
+
+## Notes
+
+- Only support for PC/Desktop version.
+- After Gmail emoji-hiding related functions added, the updating of this script will be ended.
+- The Gmail's UI design may be changed. The support for new UI may be delayed or stopped in the future.
+- You can fork and PR better solution into this repo.

@@ -7,7 +7,11 @@ A Tampermonkey script which can be used to remove emoji on the mail list of Gmai
 ## Installation
 
 1. Add `Tampermonkey` extension into browser (e.g. [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo))
-2. Go to Greasy Fork page to `install this script`: [Greasy Fork](https://greasyfork.org/scripts/433292-gmail-remove-emoji-on-mail-list)
+2. Go to script's [Greasy Fork](https://greasyfork.org/scripts/433292-gmail-remove-emoji-on-mail-list) page to `install this script`.
+
+## Greasy Fork
+
+[https://greasyfork.org/scripts/433292-gmail-remove-emoji-on-mail-list](https://greasyfork.org/scripts/433292-gmail-remove-emoji-on-mail-list)
 
 ## Author
 
